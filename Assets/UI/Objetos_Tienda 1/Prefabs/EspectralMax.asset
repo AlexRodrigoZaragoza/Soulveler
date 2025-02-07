@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150992e7ca6b7964caaab5144542ac5e, type: 3}
+  m_Name: EspectralMax
+  m_EditorClassIdentifier: 
+  i: 3
+  ObjetoSeleccionado: 0
+  Objto: {fileID: 458168901036319274, guid: a3790f960071ddb488ea2fee0d2e019c, type: 3}
+  Col: {fileID: 7419583246609584593, guid: a3790f960071ddb488ea2fee0d2e019c, type: 3}

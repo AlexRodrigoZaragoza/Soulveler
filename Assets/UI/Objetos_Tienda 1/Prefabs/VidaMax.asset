@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150992e7ca6b7964caaab5144542ac5e, type: 3}
+  m_Name: VidaMax
+  m_EditorClassIdentifier: 
+  i: 1
+  ObjetoSeleccionado: 0
+  Objto: {fileID: 362612608480295035, guid: bd775deb2f9ac5b4ba722953197ee5ee, type: 3}
+  Col: {fileID: -3331352911791801804, guid: bd775deb2f9ac5b4ba722953197ee5ee, type: 3}

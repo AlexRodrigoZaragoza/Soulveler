@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: 3dcdd831a27236445834615374a542c1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: El_Bueno-REAL_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9716
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e8b05ed1f20f1409fd5d00f7ab8985
+      internalID: 103124372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_1
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 9716
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dbbd192b62c5f43951c6d7237ad50c
+      internalID: -659472025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_2
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 9716
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c20a0a41d733fd46aa246a78af124f1
+      internalID: 1785461299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_3
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 9716
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f843461f6d8f845855ac154ea1db27
+      internalID: 763445846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8328
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e9975ab79449d4b9b9b4ef519488c4
+      internalID: -637187429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_5
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 8328
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26de27d2a31b52047909bbe896c410fa
+      internalID: 165570690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_6
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 8328
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f7ee62c471cb140a287be1f8fa3f79
+      internalID: -1254468677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_7
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 8328
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff7916a6de2669438852f67ed2a1dda
+      internalID: -314691133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6940
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5df74d57b8822a4a8a703e8921adce9
+      internalID: -678309713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_9
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 6940
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f1d0165b5bbc4f993a30e496c35d8
+      internalID: -1231612697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_10
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 6940
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a50b37d1645d1f4c8035cd50da5e363
+      internalID: -1768397248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_11
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 6940
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f4c34df9a5049499ce436f3f3782eb
+      internalID: -787424806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5552
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d46ba3e5e5aed4e87ecd2e6d204f3a
+      internalID: -1222148609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_13
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 5552
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e251a3875e2c4ab94506a34cf6207
+      internalID: 518145518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_14
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 5552
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad10be5e6550444ba2c5d24e40112ae
+      internalID: 1111485421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_15
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 5552
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9286d367e072d7849b02dc0ef0453643
+      internalID: -2068610911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4164
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a876b28b0b4ac4aa57063b37554b55
+      internalID: -78343138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_17
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 4164
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8075c41fe29634e4b93d78d44f46d998
+      internalID: -918050459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_18
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 4164
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bab924b35116b14b83635b6db30fb79
+      internalID: -382945280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_19
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 4164
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c205fea047367354a8b209aa8f90cb01
+      internalID: -495577022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2776
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc975c1316b7bd4ab2e140ef02435c5
+      internalID: 1159356248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_21
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 2776
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346125555b5006143af5678c39fca630
+      internalID: 364264422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_22
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 2776
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80be750e8746e484e992627a53aac13a
+      internalID: -1759102781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_23
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 2776
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324cacc344f96514aa062b0a80cdb825
+      internalID: 2023471393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1388
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abe3c5cd50bf4440a80bf22385dd98a
+      internalID: -1823988920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_25
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1388
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac86b27ef3caabe46a6d96419d46b3cc
+      internalID: -1317006294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_26
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 1388
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec16de19de57409438582d41afe59841
+      internalID: 822729686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_27
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 1388
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b494e594965d347824636dc52320f5
+      internalID: 1231512763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0864034215d434d9d15cd71f4c89e7
+      internalID: 1861822839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_29
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 0
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14c56b3ae5c4fc44ac47924c62b3217
+      internalID: -775725298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_30
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 0
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38d7b1999f37274f992d17f91c358eb
+      internalID: -1173713152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: El_Bueno-REAL_31
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 0
+        width: 1388
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a1f888b35d1ce499a8f40a421db1a5
+      internalID: 1026273858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 76c6a8f9972f8eb429e33d779692f60f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      El_Bueno-REAL_28: 1861822839
+      El_Bueno-REAL_27: 1231512763
+      El_Bueno-REAL_29: -775725298
+      El_Bueno-REAL_2: 1785461299
+      El_Bueno-REAL_14: 1111485421
+      El_Bueno-REAL_11: -787424806
+      El_Bueno-REAL_16: -78343138
+      El_Bueno-REAL_8: -678309713
+      El_Bueno-REAL_30: -1173713152
+      El_Bueno-REAL_9: -1231612697
+      El_Bueno-REAL_26: 822729686
+      El_Bueno-REAL_1: -659472025
+      El_Bueno-REAL_18: -382945280
+      El_Bueno-REAL_15: -2068610911
+      El_Bueno-REAL_31: 1026273858
+      El_Bueno-REAL_3: 763445846
+      El_Bueno-REAL_23: 2023471393
+      El_Bueno-REAL_19: -495577022
+      El_Bueno-REAL_24: -1823988920
+      El_Bueno-REAL_17: -918050459
+      El_Bueno-REAL_12: -1222148609
+      El_Bueno-REAL_20: 1159356248
+      El_Bueno-REAL_10: -1768397248
+      El_Bueno-REAL_5: 165570690
+      El_Bueno-REAL_6: -1254468677
+      El_Bueno-REAL_21: 364264422
+      El_Bueno-REAL_25: -1317006294
+      El_Bueno-REAL_0: 103124372
+      El_Bueno-REAL_7: -314691133
+      El_Bueno-REAL_22: -1759102781
+      El_Bueno-REAL_4: -637187429
+      El_Bueno-REAL_13: 518145518
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+NavMesh: el suelo en una layer propia (suelo) esto se aplicara en los enemigos como "whatIsGround", 
+	muros y pilares en una layer propia (Walls/Obstacle o Wall/Wall) esto se aplicara a los enemigos como "whatIsWall"
+
+Enemigos: necesitan que el Player tenga el tag "Player", tienen que tener el tag "Enemigo", 
+	los obstaculos(lugares en los cuales no puede desparar atraves) tienen que tener tag "Obstaculo",
+	los assets o colliders que no queramos que interactuen con las balas de los enemigos tienen que estar en la Layer "void" (ejm: colliders void de los varios, en la layer "void")
+
+Enemigos payasos: igual que enemigos + layer propia llamada "Payaso" para que el niño llore cuando los vea
+
+Developer mode -- L --> saltar de sala
+			   -- P --> volver al lobby 
+			   -- O --> reload scene

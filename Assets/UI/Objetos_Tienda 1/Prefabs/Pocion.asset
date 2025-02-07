@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150992e7ca6b7964caaab5144542ac5e, type: 3}
+  m_Name: Pocion
+  m_EditorClassIdentifier: 
+  i: 0
+  ObjetoSeleccionado: 0
+  Objto: {fileID: 5025562842866056504, guid: 60f1607b6db153e408362ef8bc00e11a, type: 3}
+  Col: {fileID: 7620345007407716278, guid: 60f1607b6db153e408362ef8bc00e11a, type: 3}
